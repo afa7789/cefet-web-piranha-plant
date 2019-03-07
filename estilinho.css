@@ -1,0 +1,38 @@
+body{
+	background-image:url("imagens/fundo.png");
+}
+
+h1{
+	font-style:"Times New Roman";
+	font-size:28px;
+	color:limegreen;
+}
+
+h2{
+	font-style:"Times New Roman";
+	font-size:24px;
+	color:limegreen;
+}
+
+p{
+	text-align:justify;
+	font-style:Arial;
+	style:"text-align:justify";
+}
+
+img{
+	border: 4px solid limegreen;
+}
+
+table{
+	border-collapse: collapse;
+	width: 600px;	
+	margin:0 auto;
+}
+th{
+	font-weight:bold;
+}
+th,td{
+		border: 2px solid silver;
+	text-align:center;
+}
